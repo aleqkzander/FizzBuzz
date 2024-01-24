@@ -1,0 +1,14 @@
+D:\FizzBuzz\FizzBuzz-Solver\bin\Debug\net8.0\FizzBuzz-Solver.exe
+D:\FizzBuzz\FizzBuzz-Solver\bin\Debug\net8.0\FizzBuzz-Solver.deps.json
+D:\FizzBuzz\FizzBuzz-Solver\bin\Debug\net8.0\FizzBuzz-Solver.runtimeconfig.json
+D:\FizzBuzz\FizzBuzz-Solver\bin\Debug\net8.0\FizzBuzz-Solver.dll
+D:\FizzBuzz\FizzBuzz-Solver\bin\Debug\net8.0\FizzBuzz-Solver.pdb
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\FizzBuzz-Solver.GeneratedMSBuildEditorConfig.editorconfig
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\FizzBuzz-Solver.AssemblyInfoInputs.cache
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\FizzBuzz-Solver.AssemblyInfo.cs
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\FizzBuzz-Solver.csproj.CoreCompileInputs.cache
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\FizzBuzz-Solver.dll
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\refint\FizzBuzz-Solver.dll
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\FizzBuzz-Solver.pdb
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\FizzBuzz-Solver.genruntimeconfig.cache
+D:\FizzBuzz\FizzBuzz-Solver\obj\Debug\net8.0\ref\FizzBuzz-Solver.dll
