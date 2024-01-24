@@ -1,2 +1,2 @@
 # FizzBuzz
- Solve the FizzBuzz problem
+FizzBuzz challenge solved as a simple C# console application 
